@@ -1,21 +1,5 @@
-/**************************************************************************
- * FILE NAME:  lab6.c
- *
- * EECS461 at the University of Michigan
- * Lab 6 - Template
- *
- * Revision History:
- * 	8-16-06	lovelljc
- *
- * Revised and adapted to use at IMRT ETH Zurich
- * 151-0593-00 Embedded Control Systems (ECS)
- *
- * Revision History:
- *	2008-09-04		Marianne Schmid
- *	2011-03-29		Thomas Schneider
- *  2012-08-15		Patrick Müller
- *  2015-02-18      Fabian Byland
- **************************************************************************/
+//Jose Mastrangelo, Anton ter Vehn, Manish Prajapat
+//Group 06
 
 #include <mpc5553.h>
 #include <ecs.h>

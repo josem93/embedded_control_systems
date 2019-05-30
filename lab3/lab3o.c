@@ -1,4 +1,6 @@
 /**************************************************************************
+ * Jose Mastrangelo, Anton ter Vehn, Manish Prajapat
+ * Group 06
  * FILE NAME:  lab3o.c
  *
  * EECS461 at the University of Michigan

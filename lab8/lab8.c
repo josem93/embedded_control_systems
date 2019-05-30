@@ -1,23 +1,5 @@
-/**************************************************************************
- *
- * EECS461 at the University of Michigan
- * Lab 8 Template
- *
- * Created October 2004 by Paul Griffiths for MPC555
- *
- * Revision History:
- * 	10-12-06	lovelljc	for 5553 micro
- * 	10-13-06	ericjw	file consolidation
- *  10-16-06    lovelljc
- *
- * Revised and adapted to use at IDSC ETH Zurich
- * 151-0593-00 Embedded Control Systems (ECS)
- *
- * Revision History:
- *	2010-03-26		Gregor Ochsner
- *  2011-08-30		Thomas Schneider - Interrupts
- **************************************************************************/
-
+//Jose Mastrangelo, Anton ter Vehn, Manish Prajapat
+//Group 06
 
 #include <mpc5553.h>
 #include <ecs.h>

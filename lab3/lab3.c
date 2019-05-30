@@ -1,3 +1,6 @@
+//Jose Mastrangelo, Anton ter Vehn, Manish Prajapat
+//Group 06
+
 #include <ecs.h>
 #include <mpc5553.h>
 #include <isr.h>
