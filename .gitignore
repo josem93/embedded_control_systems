@@ -1,0 +1,25 @@
+# Don't track content of these folders
+doneMATERIAL/
+
+# Compiled source #
+###################
+*.o
+*.mot
+*.map
+*.elf
+*.aux
+*.log
+*.bbl
+*.blg
+*.synctex.gz
+*.dvi
+*.out
+*.autosave
+*.mexw64
+*.asv
+*.bak
+*eps-converted-to.pdf
+*.auxlock
+*.ps
+*.sav
+_trash
